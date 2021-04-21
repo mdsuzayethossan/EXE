@@ -3,8 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     outline: none;
-  
-    
+
+
 }
 
 a {
@@ -28,15 +28,15 @@ header {
     height: 44px;
     display: flex;
     justify-content: center;
-    
-    
+
+
 }
 .language {
     display: flex;
     align-items: center;
     width: 85px;
     margin-right: 50px;
-    
+
 }
 .lang_icon_1 {
     margin-left: 9px;
@@ -45,14 +45,14 @@ header {
     color: #898989;
     font-size: 20px;
     margin-right: 10px;
-    
+
 
 }
 .lang_icon a i {
     color: #898989;
     font-size: 20px;
     margin-right: 10px;
-    
+
 
 }
 .text a {
@@ -60,7 +60,7 @@ header {
     font-weight: 400;
     font-size: 13px;
     color: #898989;
-    
+
 }
 
 .contact {
@@ -68,16 +68,16 @@ header {
     width: 120px;
     display: flex;
     align-items: center;
-    
-    
-    
-    
+
+
+
+
 }
 .mobile_icon i {
     color: #898989;
     font-size: 26px;
     margin-right: 10px;
-    
+
 
 
 
@@ -88,7 +88,7 @@ header {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 13px;
-    
+
 }
 .info {
     display: flex;
@@ -106,7 +106,7 @@ header {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 13px;
-    
+
 }
 .singin {
     width: 132px;
@@ -129,7 +129,7 @@ header {
     font-weight: 400;
     font-size: 13px;
     margin-right: 2px;
-    
+
 }
 .singin_text span{
     display: inline-block;
@@ -137,7 +137,7 @@ header {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 13px;
-    
+
 }
 
 .wishlist_arrow {
@@ -146,7 +146,7 @@ header {
 .wishlist_arrow a i {
     color: #898989;
     font-size: 20px;
-    
+
 
 }
 .Wishlist {
@@ -160,9 +160,9 @@ header {
 }
 .wishlist_icon a i {
     color: #898989;
-    
+
     font-size: 20px;
-    
+
 
 }
 .wishlist_text h1 {
@@ -172,7 +172,7 @@ header {
     font-weight: 400;
     font-size: 13px;
     margin-right: 3px;
-    
+
 }
 .wishlist_text span {
     display: inline-block;
@@ -181,7 +181,7 @@ header {
     font-weight: 400;
     font-size: 13px;
     margin-right: 3px;
-    
+
 }
 .wishlist_text h2 {
     display: inline-block;
@@ -189,7 +189,7 @@ header {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 13px;
-    
+
 }
 
 .social {
@@ -202,9 +202,9 @@ header {
 .social ul li {
     display: inline-block;
     text-align: center;
-    
 
-    
+
+
 
 }
 .social ul li a i {
@@ -213,9 +213,9 @@ header {
     border-radius: 2px;
     color: #363636;
     transition: all linear .5s;
-    
-    
-    
+
+
+
 }
 .social ul li a i:hover {
     background-color: #e5493a;
@@ -226,7 +226,7 @@ nav {
 }
 .nav_main {
     display: flex;
-    
+
 }
 .logo {
     width: 10%;
@@ -275,7 +275,7 @@ nav {
     display: flex;
     align-items: center;
     margin-left: 90px;
-    
+
 } */
 
     .menu_right {
@@ -296,7 +296,7 @@ nav {
 
 }
 .right_2 a i {
-    
+
     font-size: 20px;
     color: #363636;
     margin-right: 29px;
@@ -310,7 +310,7 @@ nav {
 }
 
 .circle {
-    
+
     position: absolute;
     display: flex;
     width: 17px;
@@ -334,7 +334,7 @@ nav {
 }
 
 #banner_loading {
-    
+
     width: 50%;
     height: 3px;
     background-color: #e5493a;
@@ -366,7 +366,7 @@ nav {
     z-index: 1;
     transform: translateY(-50%);
     z-index: 9999;
-    
+
 }
 .h_right {
     position: absolute;
@@ -375,7 +375,7 @@ nav {
     z-index: 1;
     transform: translateY(-50%);
     z-index: 9999;
-    
+
 }
 .banner_main_overly {
     position: absolute;
@@ -383,7 +383,7 @@ nav {
     left: 0;
     width: 100%;
     height: 100%;
-   
+
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -425,7 +425,7 @@ nav {
     padding: 0 177px;
     color: #ffff;
     margin-bottom: 4px;
-    
+
 
 }
 .ancor_left a {
@@ -501,24 +501,24 @@ nav {
     background-color: #fafafa;
 }
 .about_main {
-   
+
     display: flex;
     justify-content: center;
 
 }
 .aboutitem_1 {
-    
+
     background-color: #ffffff;
     width: 25%;
 }
 .about_item {
     position: relative;
-   
+
     padding-top: 64px;
     text-align: center;
-    
-    
-    
+
+
+
 }
 .about_item .img {
     transition: all linear .5s;
@@ -557,7 +557,7 @@ nav {
     height: 70px;
     border-radius: 50%;
     background-color: #363636;
-    
+
 }
 .about_item h3 {
     font-family: 'Raleway', sans-serif;
@@ -576,7 +576,7 @@ nav {
     position: relative;
     margin-bottom: 62px;
     padding: 0 31px;
-    
+
 }
 .about_item p::before{
     position: absolute;
@@ -604,7 +604,7 @@ nav {
     text-transform: capitalize;
     text-align: center;
     margin-bottom: 16px;
-    
+
 }
 .portfolio_head p {
     font-family: 'Roboto', sans-serif;
@@ -626,7 +626,7 @@ nav {
     left: 50%;
     background-color: #f50a0a;
     transform: translateX(-50%);
-    
+
 }
 .fortfolio_item {
     margin-top: 75px;
@@ -665,7 +665,7 @@ nav {
 }
 
 .portfolio-img_main {
-    
+
     display: flex;
     justify-content: center;
 }
@@ -685,17 +685,17 @@ nav {
     z-index: 9999;
     opacity: 0;
     transition: all linear .5s;
-    
+
 
 
 }
 .portfolio_img_item img {
-    transition: all linear .5s; 
-    
-    
+    transition: all linear .5s;
+
+
 }
 .portfolio_img_item:hover .portfolio_img_overly {
-   
+
       opacity: 1;
 }
 .portfolio_img_item:hover img{
@@ -718,7 +718,7 @@ nav {
     font-weight: 400;
     color: #959595;
     position: relative;
-    
+
 
 }
 .portfolio_img_overly .portfolio_overly_text p::after{
@@ -734,13 +734,13 @@ nav {
 }
 .portfolio_overly_icon_main {
     display: flex;
-    justify-content: right;
+    justify-content: end;
     margin-top: 80px;
     margin-right: 40px;
-    
+
 }
 .portfolio_overly_icon_item {
-    
+
     width: 70px;
     height: 70px;
     border-radius: 50%;
@@ -795,7 +795,7 @@ border-radius: 5px;
     background-position: center;
     height: 635px;
     position: relative;
-    
+
 }
 .project_head {
     text-align: center;
@@ -847,7 +847,7 @@ color: #ffffff;
     transform: translateX(-50%);
     opacity: 1;
     transition: all linear .5s;
-    
+
 }
 .project_item_circle{
     position: absolute;
@@ -866,8 +866,8 @@ color: #ffffff;
 .project_item_circle h2 {
     font-family: 'Raleway', sans-serif;
     font-size: 36px;
-    font-weight: 700; 
-    text-align: center; 
+    font-weight: 700;
+    text-align: center;
     color: white;
 
 }
@@ -878,8 +878,8 @@ color: #ffffff;
 .project_text h3 {
     font-family: 'Raleway', sans-serif;
     font-size: 24px;
-    font-weight: 700; 
-    text-align: center; 
+    font-weight: 700;
+    text-align: center;
     color: #e5493a;
 
 }
@@ -948,7 +948,7 @@ color: #ffffff;
 
 
 .service_facility_main{
-    
+
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -1086,7 +1086,7 @@ color: #ffffff;
     color: #363636;
     margin-left: 30px;
     margin-right: 19px;
-    
+
 
 }
 .facility_2_last p{
@@ -1094,7 +1094,7 @@ color: #ffffff;
     font-size: 13px;
     font-weight: 400;
     color: #cccccc;
-    
+
 
 }
 .facility_3_last {
@@ -1106,8 +1106,8 @@ color: #ffffff;
     justify-content: center;
     align-items: center;
     margin-left: 127px;
-    
-    
+
+
 
 }
 .facility_3_last h4 a i {
@@ -1118,10 +1118,10 @@ color: #ffffff;
 /*============= Right Part goes here =================*/
 .service_facility_right {
     width: 570px;
-   
+
     margin-top: -39px;
-    
-    
+
+
 }
 .service_facility_right .slick-dots {
     margin-top: 28px;
@@ -1140,8 +1140,8 @@ color: #ffffff;
 .service_facility_right .slick-dots li button {
     width: 10px;
     height: 10px;
-    
-    
+
+
     border-radius: 50%;
     background-color: #e5493a;
     color: transparent;
@@ -1157,7 +1157,7 @@ color: #ffffff;
     height: 103px;
     position: relative;
     margin: 0 30px;
-    
+
 }
 .service_facility_right_item_text {
     width: 377px;
@@ -1169,7 +1169,7 @@ color: #ffffff;
     border-radius: 50%;
 }
 .service_facility_right_item_text p {
-   
+
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -1194,7 +1194,7 @@ color: #ffffff;
     width: 35px;
     height: 30px;
     position: absolute;
-    
+
     bottom: -30px;
     right: 72px;
 }
@@ -1211,7 +1211,7 @@ color: #ffffff;
 }
 
 .service_facility_right_item_text span a {
-    
+
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -1235,7 +1235,7 @@ color: #ffffff;
     display: flex;
     justify-content: space-between;
     margin-top: 72px;
-   
+
 }
 .blog_img img {
     transition: all linear .5s;
@@ -1250,7 +1250,7 @@ color: #ffffff;
     width: 270px;
     position: relative;
     overflow: hidden;
-    
+
 
 }
 .blog_item_1 {
@@ -1264,7 +1264,7 @@ color: #ffffff;
     top: 0;
     left: 0;
     opacity: 0;
-     
+
 
 
 }
@@ -1276,10 +1276,10 @@ color: #ffffff;
     top: 50%;
     transform: translate(-50%,-50%);
     padding-bottom: 85px;
-   
+
 }
 .blog_overly_icon_item {
-  
+
 
     width: 70px;
     height: 70px;
@@ -1305,7 +1305,7 @@ color: #ffffff;
 
 
 .blog_item_bg {
-    
+
     background-color: #fafafa;
     padding: 31px 31px 20px 31px;
 }
@@ -1334,18 +1334,18 @@ color: #ffffff;
 }
 .item_text a {
     font-family: 'Roboto', sans-serif;
-    
+
     font-size: 14px;
     font-weight: 400;
     padding-bottom: 20px;
     color: #363636;
 }
 .item_text a i {
-    
-    
+
+
     font-size: 10px;
     font-weight: 400;
-   
+
     color: #e5493a;
 }
 .item_text a {
@@ -1359,7 +1359,7 @@ color: #ffffff;
     left: 0;
     bottom: 0;
     background-color: #363636;
-    
+
     opacity: 1;
     transition: all linear .5s;
 }
@@ -1391,11 +1391,11 @@ color: #ffffff;
 }
 .overly_icon a i {
     color: white;
-    
-    
+
+
 }
 .overly_icon_1 {
-  
+
     width: 41px;
     height: 41px;
     background-color: #363636;
@@ -1407,8 +1407,8 @@ color: #ffffff;
 }
 .overly_icon_1 a i {
     color: white;
-    
-    
+
+
 }
 
 
@@ -1434,7 +1434,7 @@ color: #ffffff;
 .theme_left {
     width: 740px;
     margin-right: 40px;
-    
+
 }
 .theme_right {
     margin-top: 44px;
@@ -1443,21 +1443,21 @@ color: #ffffff;
 .theme_main {
     display: flex;
     margin-top: 60px;
-    
+
 }
 .theme_right_item {
     width: 400px;
     display: flex;
-    
-    
-    
+
+
+
 }
 .theme_right_item:hover  .theme_right_icon {
     border: 3px solid #e5493a;
     background-color: transparent;
 }
 .theme_right_icon {
-    
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1467,8 +1467,8 @@ color: #ffffff;
     background-color: #fafafa;
     transition: all linear .1s;
     margin-right: 30px;
-    
-    
+
+
 }
 .theme_right_text {
     width: 260px;
@@ -1504,7 +1504,7 @@ color: #ffffff;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-   
+
 }
 .company_icon {
     position: relative;
@@ -1554,8 +1554,8 @@ color: #ffffff;
     display: flex;
     text-align: center;
     justify-content: space-between;
-   
-    margin-left: 95px;
+
+    padding-left: 95px;
 }
 
 
@@ -1564,13 +1564,13 @@ footer {
     background-color: #252525;
     padding-top: 81px;
 
-    
+
 }
 
 .footer_main {
     display: flex;
     justify-content: space-between;
-    
+
     padding-bottom: 93px;
 }
 .footer_item {
@@ -1601,7 +1601,7 @@ footer {
 }
 .read_more a {
     font-family: 'Roboto', sans-serif;
-    
+
     font-size: 14px;
     font-weight: 400;
     padding-bottom: 20px;
@@ -1611,7 +1611,7 @@ footer {
 .read_more a i {
     font-size: 10px;
     font-weight: 400;
-   
+
     color: #e5493a;
 
 }
@@ -1661,8 +1661,8 @@ footer {
     font-size: 13px;
     font-weight: 400;
 
-    
-    
+
+
 }
 .footer_item_head {
     margin-bottom: 58px;
@@ -1729,7 +1729,7 @@ footer {
     align-items: center;
     opacity: 0;
     transition: all linear .5s;
-    
+
 }
 .footer_item_1_item:hover .footer_item_1_item_left_overly {
     opacity: 1;
@@ -1750,7 +1750,7 @@ footer {
 }
 .icon a i {
     color: white;
-} 
+}
 
 
 .footer_item_1_item_right {
@@ -1787,7 +1787,7 @@ footer {
 .twitter_item {
     display: flex;
     position: relative;
-    
+
 }
 .twitter_item::after {
     position: absolute;
@@ -1904,7 +1904,7 @@ transition: all linear .5s;
 .af {
     width: 67px;
     margin-right: 36px;
-} 
+}
 /* .follow_icon {
     width: 16px;
     height: 16px;
@@ -1922,7 +1922,7 @@ transition: all linear .5s;
     padding: 3px 5px;
     border-radius: 5px;
     transition: all linear .5s;
-   
+
 }
 .follow_icon_1 ul li {
     display: inline-block;
@@ -1930,7 +1930,7 @@ transition: all linear .5s;
     padding: 3px 5px;
     border-radius: 5px;
     transition: all linear .5s;
-   
+
 }
 .fi {
     margin-right: 1px;
@@ -1974,12 +1974,12 @@ transition: all linear .5s;
 
 
 
- 
+
 .footer_nav {
     background-color: #111111;
     border-top: 1px solid #343434;
     width: 100%;
-    
+
 }
 
 .footer_nav_main {
@@ -1996,19 +1996,19 @@ transition: all linear .5s;
 .footer_nav_item h2 {
     display: inline-block;
     line-height: 81px;
-} 
+}
 .footer_nav_item span {
     display: inline-block;
     line-height: 81px;
-} 
+}
 .footer_nav_item h3 {
     display: inline-block;
     line-height: 81px;
-} 
+}
 .footer_nav_item h5 {
     display: inline-block;
     line-height: 81px;
-} 
+}
 
 .footer_nav_item h2 {
 font-family: 'Roboto', sans-serif;
@@ -2052,9 +2052,9 @@ font-weight: 400;
     line-height: 81px;
     position: relative;
     transition: all linear .5s;
-} 
+}
 
 .menu_last ul li a:hover{
     color: #e5493a;
 
-} 
+}
