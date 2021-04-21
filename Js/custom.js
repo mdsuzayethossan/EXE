@@ -5,6 +5,7 @@ $(function (){
     arrows: false,
     autoplay:true,
    verticalSwiping: true,
+    dots:true,
     slidesToShow: 2,
     slidesToScroll: 1
   });
@@ -25,16 +26,21 @@ $('.banner_main').slick({
   arrows:false,
   speed:2500,
   arrows:true,
+  
   prevArrow:'.h_left',
   nextArrow:'.h_right',
 });
-
-
-
-
-
-
-
+$('.company_main').slick({
+  slidesToShow: 5,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 2500,
+  arrows:false,
+  speed:2500,
+  arrows:true,
+  prevArrow:'.c_left',
+  nextArrow:'.c_right',
+});
 
 
 
